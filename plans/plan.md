@@ -48,7 +48,7 @@
 - PlayerController와 PlayerState
 - Pawn과 Character
 
-# [Chapter 4](InputSystemPlan)
+# [Chapter 4](InputSystemPlan.md)
 
 목표
 - Enhanced Input System의 소개

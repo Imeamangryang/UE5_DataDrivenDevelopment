@@ -9,3 +9,5 @@
   - [3-2. Unreal Engine World](pages/3-2.Unreal_Engine_World.md)
   - [3-3. GameplayFramework](pages/3-3.GameplayFramework.md)
 - [4. Input System](pages/4-0.Input_System.md)
+  - [4-1. Data Asset](pages/4-1.Data_Asset.md)
+  - [4-2. Enhanced Input System](pages/4-2.Enhanced_Input_System.md)
